@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Draft on SZG Zone</title>
+    <link>http://localhost:1313/tags/draft/</link>
+    <description>Recent content in Draft on SZG Zone</description>
+    <image>
+      <title>SZG Zone</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2024 01:14:18 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draft Post</title>
+      <link>http://localhost:1313/projects/000-draft-projects/</link>
+      <pubDate>Wed, 22 May 2024 01:14:18 +0800</pubDate>
+      <guid>http://localhost:1313/projects/000-draft-projects/</guid>
+      <description>A lil Draft Post</description>
+    </item>
+  </channel>
+</rss>

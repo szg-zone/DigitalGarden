@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SZG Zone</title>
+    <link>https://szg-zone.github.io/DigitalGarden/</link>
+    <description>Recent content on SZG Zone</description>
+    <image>
+      <title>SZG Zone</title>
+      <url>https://szg-zone.github.io/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://szg-zone.github.io/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jul 2025 21:53:02 +0530</lastBuildDate>
+    <atom:link href="https://szg-zone.github.io/DigitalGarden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎯 My Digital Garden</title>
+      <link>https://szg-zone.github.io/DigitalGarden/blogs/001-my-digital-garden/</link>
+      <pubDate>Tue, 01 Jul 2025 21:53:02 +0530</pubDate>
+      <guid>https://szg-zone.github.io/DigitalGarden/blogs/001-my-digital-garden/</guid>
+      <description>A bit about me and my garden</description>
+    </item>
+    <item>
+      <title>Changelog</title>
+      <link>https://szg-zone.github.io/DigitalGarden/changelog/</link>
+      <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
+      <guid>https://szg-zone.github.io/DigitalGarden/changelog/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s about the journey, not the destination 🚗&lt;/p&gt;
+&lt;h2 id=&#34;done&#34;&gt;Done&lt;/h2&gt;
+&lt;p&gt;✅ Create site (done 27/6/22)&lt;br&gt;
+✅ Write and publish &lt;a href=&#34;https://magdelinehuang.com/posts/001-my-digital-garden/&#34;&gt;my first post&lt;/a&gt; (done 27/6/22)&lt;br&gt;
+✅ Publish to GitHub and deploy to GitHub pages (done 27/6/22)&lt;br&gt;
+✅ Buy a domain and link it to my site (done 12/7/22)&lt;br&gt;
+✅ Add favicon (done 21/7/22)&lt;br&gt;
+✅ Write and publish &lt;a href=&#34;https://magdelinehuang.com/posts/002-js-variables-and-value-types/&#34;&gt;my first content post&lt;/a&gt; (done 21/7/22)&lt;br&gt;
+✅ Integrate Disqus comments (done 23/8/22)&lt;/p&gt;
+&lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
+&lt;p&gt;⚪️ Add RSS feed&lt;br&gt;
+⚪️ Add Google Analytics&lt;br&gt;
+⚪️ Customise the header and footer (remove the background colour for share buttons)&lt;br&gt;
+⚪️ Fix responsive layout (increase margins)&lt;br&gt;
+⚪️ Create an About page&lt;br&gt;
+⚪️ Create a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;Now page&lt;/a&gt;&lt;br&gt;
+⚪️ Create a 404 page&lt;br&gt;
+⚪️ Add &amp;ldquo;Last edited on&amp;rdquo;&lt;br&gt;
+⚪️ Customise colour of code blocks&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

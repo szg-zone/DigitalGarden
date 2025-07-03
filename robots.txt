@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://szg-zone.github.io/DigitalGarden/sitemap.xml
