@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React on SZG Zone</title>
+    <link>http://localhost:51059/tags/react/</link>
+    <description>Recent content in React on SZG Zone</description>
+    <image>
+      <title>SZG Zone</title>
+      <url>http://localhost:51059/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:51059/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:51059/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todo List App</title>
+      <link>http://localhost:51059/projects/000-draft-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51059/projects/000-draft-projects/</guid>
+      <description>A Todo list web application built using React</description>
+    </item>
+  </channel>
+</rss>

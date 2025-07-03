@@ -1,0 +1,143 @@
+baseURL: "https://szg-zone.github.io/DigitalGarden/"
+languageCode: "en-us"
+title: "SZG Zone"
+theme: "PaperMod"
+publishDir: "docs"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+taxonomies:
+  tag: "tags"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  highlight:
+    noClasses: false
+
+params:
+  env: "production"
+  title: "Sharvin Tejasvi"
+  description: "My digital garden"
+  keywords: ["Blog", "Portfolio", "PaperMod"]
+  author: "Sharvin Tejasvi"
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: "auto"
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false # Set to true to show share buttons on posts
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true 
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon-16x16.png"
+
+  label:
+    text: "SZG Zone"
+    iconHeight: 35
+
+  profileMode:
+    enabled: true
+    title: "Sharvin Tejasvi"
+    subtitle: "Hi 👋 I’m Sharvin — Welcome to my digital garden, where I document my learnings as an Engineering student!! From tech experiments to creative sparks, this space is a mix of code, curious thoughts, half-baked ideas, and the occasional “a-ha!” moment — all reflecting my growth and curiosity along the way. Dig in and explore!"
+    imageUrl: "home/LOGO.png"
+    imageWidth: 220
+    imageHeight: 220
+    imageTitle: "my image"
+
+    #buttons:
+    # - name: "Posts"
+    #   url: "posts"
+    # - name: "Tags"
+    #   url: "tags"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/szg-zone"
+    - name: "youtube"
+      url: "https://www.youtube.com"
+    - name: "instagram"
+      url: "https://instagram.com/szgzone"
+    - name: "itch.io"
+      url: "https://szg-zone.itch.io/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: "home"
+      name: "home"
+      url: "/"
+      weight: 10
+    - identifier: "blog"
+      name: "blog"
+      url: "/blogs/"
+      weight: 20
+    - identifier: "archive"
+      name: "archive"
+      url: "/archive/"
+      weight: 30
+    - identifier: "search"
+      name: "search"
+      url: "/search/"
+      weight: 40
+    - identifier: "changelog"
+      name: "changelog"
+      url: "/changelog/"
+      weight: 50
+    # - identifier: tags
+    #   name: Tags
+    #   url: /tags
+    #   weight: 60
+    # - identifier: notes
+    #   name: Notes
+    #   url: https://notes.szg_zone.org
+    #   weight: 70

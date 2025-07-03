@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:50868/blogs/</loc>
+    <lastmod>2024-05-22T01:14:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50868/</loc>
+    <lastmod>2024-05-22T01:14:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50868/changelog/</loc>
+    <lastmod>2022-06-27T13:00:42+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:50868/archive/</loc>
+  </url><url>
+    <loc>http://localhost:50868/search/</loc>
+  </url><url>
+    <loc>http://localhost:50868/tags/</loc>
+  </url>
+</urlset>

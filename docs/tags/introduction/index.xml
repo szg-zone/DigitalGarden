@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Introduction on SZG Zone</title>
+    <link>http://localhost:1313/DigitalGarden/tags/introduction/</link>
+    <description>Recent content in Introduction on SZG Zone</description>
+    <image>
+      <title>SZG Zone</title>
+      <url>http://localhost:1313/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jul 2025 21:53:02 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/DigitalGarden/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎯 My Digital Garden</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/001-my-digital-garden/</link>
+      <pubDate>Tue, 01 Jul 2025 21:53:02 +0530</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/001-my-digital-garden/</guid>
+      <description>A bit about me and my garden</description>
+    </item>
+  </channel>
+</rss>
