@@ -67,3 +67,7 @@ Special thanks to Magdeline for her tutorial and explanation!
 - [Maggie Appleton\'s digital garden](https://maggieappleton.com/garden)
 - [Tom Critchlow\'s digital garden](https://tomcritchlow.com/wiki/)
 - [Joel Hook\'s digital garden](https://joelhooks.com/digital-garden)
+
+**Colophon**
+- Hugo
+- [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod)
