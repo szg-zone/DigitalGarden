@@ -60,7 +60,8 @@ And maybe, I’ll visit your digital garden one day too 😄
 ---
 
 **Notes**
-
+Special thanks to Magdeline for her tutorial and explanation!
+- [Magdeline Huang's digital garden](https://magdelinehuang.com/)
 - [About digital gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 - [How to set up your own digital garden](https://nesslabs.com/digital-garden-set-up#:~:text=A%20digital%20garden%20is%20an,to%20be%20cultivated%20in%20public.)
 - [Maggie Appleton\'s digital garden](https://maggieappleton.com/garden)
