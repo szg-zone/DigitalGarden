@@ -1,8 +1,8 @@
 # 🎯 My Digital Garden
 
-This is my first ever digital garden aka dev blog! Check it out here 👉[link]([https://szg-zone.github.io/DigitalGarden/])
+This is my first ever digital garden aka dev blog! Check it out here 👉[link](https://szg-zone.github.io/DigitalGarden/)
 
-This blog is my [**Digital Garden**]([https://szg-zone.github.io/DigitalGarden/]), where I’ll share what I’m learning, what I’m building, and how I’m growing. Whether it’s code, tech tips, personal wins, or even failures — everything is part of the journey.
+This blog is my [**Digital Garden**](https://szg-zone.github.io/DigitalGarden/), where I’ll share what I’m learning, what I’m building, and how I’m growing. Whether it’s code, tech tips, personal wins, or even failures — everything is part of the journey.
 
 Except rather than a blog, I'd like to think of this as my digital garden where I [#learninpublic](https://www.swyx.io/learn-in-public/) 📝
 ---
