@@ -57,5 +57,7 @@ It's about the journey, not the destination 🚗
 ## Future
 
 🚀 Integrate https://webmention.io/ and https://web.hypothes.is/?\
+
 🚀 Build a [wiki](https://tomcritchlow.com/2019/02/17/building-digital-garden/)\
+
 🚀 Change stack to Next.js and MDX?
