@@ -1,11 +1,11 @@
 ---
 title: "Changelog"
-date: 2022-06-27T13:00:42+12:00
+date: 2025-06-01T13:00:42+12:00
 draft: false
 summary: "" #displays underneath title in blog title card on homepage
 description: "" #displays underneath title in actual blog page
 tags: [""]
-author: "Magdeline Huang"
+author: "Sharvin Tejasvi"
 showToc: true
 TocOpen: false
 hidemeta: false
@@ -34,16 +34,16 @@ It's about the journey, not the destination 🚗
 
 ## Done
 
-✅ Create site (done 27/6/22)\
-✅ Write and publish [my first post](https://magdelinehuang.com/posts/001-my-digital-garden/) (done 27/6/22)\
-✅ Publish to GitHub and deploy to GitHub pages (done 27/6/22)\
-✅ Buy a domain and link it to my site (done 12/7/22)\
-✅ Add favicon (done 21/7/22)\
-✅ Write and publish [my first content post](https://magdelinehuang.com/posts/002-js-variables-and-value-types/) (done 21/7/22)\
-✅ Integrate Disqus comments (done 23/8/22)
+✅ Create site (done 01/6/25)\
+✅ Write and publish [my first post](https://szg-zone.github.io/DigitalGarden/blogs/001-my-digital-garden/) (done 01/6/25)\
+✅ Publish to GitHub and deploy to GitHub pages (done 01/6/25)\
+✅ Add favicon (done 01/7/25)\
+✅ Write and publish (done 04/7/25)\
 
 ## To-Do
 
+⚪ Buy a domain and link it to my site
+⚪ Integrate Disqus comments
 ⚪️ Add RSS feed\
 ⚪️ Add Google Analytics\
 ⚪️ Customise the header and footer (remove the background colour for share buttons)\
