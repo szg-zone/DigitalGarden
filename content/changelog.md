@@ -38,12 +38,12 @@ It's about the journey, not the destination 🚗
 ✅ Write and publish [my first post](https://szg-zone.github.io/DigitalGarden/blogs/001-my-digital-garden/) (done 01/6/25)\
 ✅ Publish to GitHub and deploy to GitHub pages (done 01/6/25)\
 ✅ Add favicon (done 01/7/25)\
-✅ Write and publish (done 04/7/25)\
+✅ Write and publish (done 04/7/25)
 
 ## To-Do
 
-⚪ Buy a domain and link it to my site
-⚪ Integrate Disqus comments
+⚪ Buy a domain and link it to my site\
+⚪ Integrate Disqus comments\
 ⚪️ Add RSS feed\
 ⚪️ Add Google Analytics\
 ⚪️ Customise the header and footer (remove the background colour for share buttons)\
