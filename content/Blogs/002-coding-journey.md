@@ -36,7 +36,7 @@ cover:
 
 Today marks the beginning of something I've been meaning to do for a long time — I’m officially starting my coding journey. I’m starting from absolute zero, with some little prior experience, but with full determination to learn, practice, and grow every single day. 
 
-### 🎯🎖 My initial goal is simple:
+### 🎖 My initial goal is simple:
  I’ll begin with HTML and CSS — learning how websites are structured and styled — and then move on to JavaScript to add interactivity.
 
  This won’t just be a passive learning experience. I’ve set a mindset to code daily, however small the effort may be. Along the way, I plan to take thorough notes, study how others write code, learn from open-source projects, and gradually start building my own projects from scratch.
