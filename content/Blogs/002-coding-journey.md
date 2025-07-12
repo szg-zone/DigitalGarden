@@ -1,5 +1,5 @@
 ---
-title: "🎯 My Digital Garden"
+title: "📘 Starting My Coding Journey"
 date: 2025-07-12T16:20:07Z
 draft: false
 
@@ -31,8 +31,10 @@ cover:
     hidden: true
 ---
 
-## 📘 Starting My Coding Journey — From Zero to Web Developer
- Today marks the beginning of something I've been meaning to do for a long time — I’m officially starting my coding journey. I’m starting from absolute zero, with some little prior experience, but with full determination to learn, practice, and grow every single day. 
+## Hey there!
+ Sharvin here again — and this time, I’m diving into something exciting!.
+
+Today marks the beginning of something I've been meaning to do for a long time — I’m officially starting my coding journey. I’m starting from absolute zero, with some little prior experience, but with full determination to learn, practice, and grow every single day. 
 
 ### 🎯🎖 My initial goal is simple:
  I’ll begin with HTML and CSS — learning how websites are structured and styled — and then move on to JavaScript to add interactivity.
@@ -44,5 +46,6 @@ cover:
 
 ### 🌐 Becoming Part of the Tech Community: Learn, Share, Grow
  More than just writing code, I want to be an active part of the tech community. I’ll ask questions, share what I learn, and keep improving with feedback and interaction. Whether it’s through blog posts like this one, social media updates, or contributions to open-source, I’m committing to showing up and staying consistent.
+
 
 This journey is just beginning, but I’m excited for every line of code I’ll write, every bug I’ll fix, and every lesson I’ll learn. If you're also learning, feel free to connect — let’s grow together.
