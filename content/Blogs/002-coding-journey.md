@@ -3,10 +3,10 @@ title: "📘 Starting My Coding Journey"
 date: 2025-07-12T16:20:07Z
 draft: false
 
-tags: ["introduction", "learning-in-public"]
+tags: ["introduction", "learning-to-code", "coding-journey"]
 summary: "📘 Starting My Coding Journey — From Zero"
 description: "From Zero to Web Developer"
-weight: 1
+weight: 2
 author: "Sharvin Tejasvi"
 showToc: true
 TocOpen: false
