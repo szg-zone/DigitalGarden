@@ -5,7 +5,7 @@ draft: false
 
 tags: ["introduction", "learning-to-code", "coding-journey"]
 summary: "I’m diving into something exciting!."
-description: "From Zero to Web Developer"
+description: "From Zero to Hero"
 weight: 2
 author: "Sharvin Tejasvi"
 showToc: true
