@@ -4,7 +4,7 @@ date: 2025-07-12T16:20:07Z
 draft: false
 
 tags: ["introduction", "learning-to-code", "coding-journey"]
-summary: "📘 Starting My Coding Journey — From Zero"
+summary: "I’m diving into something exciting!."
 description: "From Zero to Web Developer"
 weight: 2
 author: "Sharvin Tejasvi"
