@@ -9,10 +9,17 @@
       <url>https://szg-zone.github.io/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://szg-zone.github.io/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.147.9</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 21:53:02 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 16:20:07 +0000</lastBuildDate>
     <atom:link href="https://szg-zone.github.io/DigitalGarden/tags/learning-in-public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎯 My Digital Garden</title>
+      <link>https://szg-zone.github.io/DigitalGarden/blogs/002-coding-journey/</link>
+      <pubDate>Sat, 12 Jul 2025 16:20:07 +0000</pubDate>
+      <guid>https://szg-zone.github.io/DigitalGarden/blogs/002-coding-journey/</guid>
+      <description>From Zero to Web Developer</description>
+    </item>
     <item>
       <title>🎯 My Digital Garden</title>
       <link>https://szg-zone.github.io/DigitalGarden/blogs/001-my-digital-garden/</link>
