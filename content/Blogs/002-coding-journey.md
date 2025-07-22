@@ -37,14 +37,14 @@ cover:
 Today marks the beginning of something I've been meaning to do for a long time — I’m officially starting my coding journey. I’m starting from absolute zero, with some little prior experience, but with full determination to learn, practice, and grow every single day. 
 
 ### 🎖 My initial goal is simple:
- I’ll begin with HTML and CSS — learning how websites are structured and styled — and then move on to JavaScript to add interactivity.
+ I’ll begin with HTML and CSS — learning how websites are structured and styled — and then move on to JavaScript or Python  or Something New.
 
  This won’t just be a passive learning experience. I’ve set a mindset to code daily, however small the effort may be. Along the way, I plan to take thorough notes, study how others write code, learn from open-source projects, and gradually start building my own projects from scratch.
 
-### 📁 Learning Git & GitHub: Building the Habit of Version Control
+### 📁 Learning Git & GitHub: 
  Once I’m comfortable with the basics, I’ll dive deep into Git and GitHub — tools that every developer uses to manage and share their code. Learning these early will help me collaborate, contribute, and maintain my work properly from the start.
 
-### 🌐 Becoming Part of the Tech Community: Learn, Share, Grow
+### 🌐 Becoming Part of the Tech Community:
  More than just writing code, I want to be an active part of the tech community. I’ll ask questions, share what I learn, and keep improving with feedback and interaction. Whether it’s through blog posts like this one, social media updates, or contributions to open-source, I’m committing to showing up and staying consistent.
 
 
