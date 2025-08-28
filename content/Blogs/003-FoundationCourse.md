@@ -3,13 +3,13 @@ title: "Foundation Cource"
 date: "2025-08-28T11:21:18Z"
 draft: false
 
-tags: ["Foundation Course"]
+tags: ["Foundation Course","BennettUniversity","Projects"]
 author: "Sharvin Tejasvi"
 showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: "A lil Draft Post"
+description: "A student-driven skill-exchange platform for Bennett University, where every student can learn, teach, and connect using a simple coin-based system."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true
 disableShare: false
