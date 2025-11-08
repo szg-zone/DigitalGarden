@@ -68,7 +68,7 @@ Instead, they started asking what responsibilities I’d be ready to take on as 
 A few days later, the team list was out. I scrolled down to the Costume & Design Team section and froze for a second.
 
 There it was —
-# Sharvin Tejasvi — Team Head.
+### Sharvin Tejasvi — Team Head.
 
 I was stunned. I didn’t expect that at all. A first-year student leading a team of six — including seniors! It felt surreal. But it also motivated me to prove that creativity, dedication, and quick thinking can make a difference, no matter your year.
 
@@ -83,16 +83,19 @@ And honestly? It turned out amazing. Seeing everyone wearing something I designe
 
 Then came the real action — the events!
 
-30th October – NIT Show: Our first big stage. It didn’t go as fire as we hoped, but it gave us experience and direction.
+### 30th October – NIT Show: 
+My first big stage work. We worked three days straight with almost no sleep, spray-painting accessories, stitching costumes, and fixing last-minute details. It didn’t turn out as fire as we hoped, but it gave us solid experience and direction for what came next.
 
-31st October – Halloween Night: This one was lit! I designed 15 costumes with budget of 1000 Rs and I know myself how i pulled that of, made the accessories myself, and our team absolutely rocked the ramp walk.
+### 31st October – Halloween Night: 
+This one was lit! I designed 15 costumes with budget of 1000 Rs and I know myself how i pulled that of, made the accessories myself, and our team absolutely rocked the ramp walk.
 The best part? Our designs were featured in TimesNow Education’s blog! Seeing that was one of the proudest moments ever.
 
 ![Halloween Night costumes](https://szg-zone.github.io/DigitalGarden/images/004-FashionEvent/Halloween.webp)
 
-6th November – WUD, Delhi: For this show, we refined our NIT designs, polished every detail, and made it shine — and it worked beautifully.
+### 6th November – WUD, Delhi: 
+For this show, we took everything we learned from NIT — refined the old designs, reworked the costumes, and hand-fixed every accessory. We pulled a few late nights again, making sure every detail looked perfect on stage — and it all paid off beautifully.
 
-![Panache Show at WUD Delhi](images/004-FashionEvent/WUD.png)
+![Panache Show at WUD Delhi](https://szg-zone.github.io/DigitalGarden/images/004-FashionEvent/WUD.png)
 
 Each show taught me something new — about teamwork, leadership, and how much effort goes into creating even a single outfit.
 
