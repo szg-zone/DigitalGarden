@@ -10,5 +10,5 @@ VS CODE PUSH
 - git remote add <remote name> <Repo CODE>
 - git remote -v 
 - git add .
-- git commit -am "InitialCommitName"
+- git commit -m "InitialCommitName"
 - git push

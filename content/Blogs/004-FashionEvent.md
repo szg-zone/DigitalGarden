@@ -3,13 +3,14 @@ title: "🎭 My Panache Journey"
 date: "2025-11-08T07:04:37Z"
 draft: false
 
-tags: ["Draft"]
+tags: ["Panache","Fashion Event","Halloween"]
+weight: 4
 author: "Sharvin Tejasvi"
 showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: "A lil Draft Post"
+description: "Leading through creativity
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true
 disableShare: false
