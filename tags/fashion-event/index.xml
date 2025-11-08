@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fashion Event on SZG Zone</title>
+    <link>https://szg-zone.github.io/DigitalGarden/tags/fashion-event/</link>
+    <description>Recent content in Fashion Event on SZG Zone</description>
+    <image>
+      <title>SZG Zone</title>
+      <url>https://szg-zone.github.io/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://szg-zone.github.io/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Nov 2025 07:04:37 +0000</lastBuildDate>
+    <atom:link href="https://szg-zone.github.io/DigitalGarden/tags/fashion-event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎭 My Panache Journey</title>
+      <link>https://szg-zone.github.io/DigitalGarden/blogs/004-fashionevent/</link>
+      <pubDate>Sat, 08 Nov 2025 07:04:37 +0000</pubDate>
+      <guid>https://szg-zone.github.io/DigitalGarden/blogs/004-fashionevent/</guid>
+      <description>Leading through creativity</description>
+    </item>
+  </channel>
+</rss>

@@ -28,18 +28,18 @@
       <description>From Zero to Hero</description>
     </item>
     <item>
-      <title>🎭 My Panache Journey</title>
-      <link>https://szg-zone.github.io/DigitalGarden/blogs/004-fashionevent/</link>
-      <pubDate>Sat, 08 Nov 2025 07:04:37 +0000</pubDate>
-      <guid>https://szg-zone.github.io/DigitalGarden/blogs/004-fashionevent/</guid>
-      <description>A lil Draft Post</description>
-    </item>
-    <item>
       <title>🌟 Foundation Course Journey</title>
       <link>https://szg-zone.github.io/DigitalGarden/blogs/003-foundationcourse/</link>
       <pubDate>Thu, 28 Aug 2025 11:21:18 +0000</pubDate>
       <guid>https://szg-zone.github.io/DigitalGarden/blogs/003-foundationcourse/</guid>
       <description>A student-driven skill-exchange platform for Bennett University, where every student can learn, teach, and connect using a simple coin-based system.</description>
+    </item>
+    <item>
+      <title>🎭 My Panache Journey</title>
+      <link>https://szg-zone.github.io/DigitalGarden/blogs/004-fashionevent/</link>
+      <pubDate>Sat, 08 Nov 2025 07:04:37 +0000</pubDate>
+      <guid>https://szg-zone.github.io/DigitalGarden/blogs/004-fashionevent/</guid>
+      <description>Leading through creativity</description>
     </item>
   </channel>
 </rss>
