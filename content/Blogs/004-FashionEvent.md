@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 hidemeta: false
 comments: false
-description: "Leading through creativity
+description: "Leading through creativity"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true
 disableShare: false
