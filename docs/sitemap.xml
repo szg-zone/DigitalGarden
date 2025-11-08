@@ -5,23 +5,56 @@
     <loc>http://localhost:1313/DigitalGarden/blogs/001-my-digital-garden/</loc>
     <lastmod>2025-07-01T21:53:02+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/DigitalGarden/blogs/002-coding-journey/</loc>
+    <lastmod>2025-07-12T16:20:07+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/blogs/004-fashionevent/</loc>
+    <lastmod>2025-11-08T07:04:37+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/DigitalGarden/blogs/</loc>
-    <lastmod>2025-07-01T21:53:02+05:30</lastmod>
+    <lastmod>2025-11-08T07:04:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/tags/draft/</loc>
+    <lastmod>2025-11-08T07:04:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/</loc>
+    <lastmod>2025-11-08T07:04:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/tags/</loc>
+    <lastmod>2025-11-08T07:04:37+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/blogs/003-foundationcourse/</loc>
+    <lastmod>2025-08-28T11:21:18+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/tags/bennettuniversity/</loc>
+    <lastmod>2025-08-28T11:21:18+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/tags/foundation-course/</loc>
+    <lastmod>2025-08-28T11:21:18+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/tags/projects/</loc>
+    <lastmod>2025-08-28T11:21:18+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/tags/coding-journey/</loc>
+    <lastmod>2025-07-12T16:20:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DigitalGarden/tags/introduction/</loc>
-    <lastmod>2025-07-01T21:53:02+05:30</lastmod>
+    <lastmod>2025-07-12T16:20:07+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/tags/learning-to-code/</loc>
+    <lastmod>2025-07-12T16:20:07+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DigitalGarden/tags/learning-in-public/</loc>
     <lastmod>2025-07-01T21:53:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/DigitalGarden/</loc>
-    <lastmod>2025-07-01T21:53:02+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/DigitalGarden/tags/</loc>
-    <lastmod>2025-07-01T21:53:02+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/DigitalGarden/changelog/</loc>
-    <lastmod>2022-06-27T13:00:42+12:00</lastmod>
+    <lastmod>2025-06-01T13:00:42+12:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/blogs/000-draft/</loc>
+    <lastmod>2024-05-22T01:14:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DigitalGarden/about/</loc>
+    <lastmod>2022-06-27T17:36:07+12:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DigitalGarden/archive/</loc>
   </url><url>

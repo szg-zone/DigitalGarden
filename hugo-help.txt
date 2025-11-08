@@ -1,0 +1,14 @@
+HUGO COMMANDS
+
+- hugo new content Blogs/000-Draft.md
+- hugo server --buildDrafts
+
+
+VS CODE PUSH
+
+- git init
+- git remote add <remote name> <Repo CODE>
+- git remote -v 
+- git add .
+- git commit -am "InitialCommitName"
+- git push

@@ -1,5 +1,5 @@
 ---
-title: "Foundation Cource"
+title: "🌟 Foundation Course Journey"
 date: "2025-08-28T11:21:18Z"
 draft: false
 
@@ -35,9 +35,9 @@ editPost:
   appendFilePath: true
 ---
 
-## 🌟 Foundation Course Journey & Our First Project Idea
+## Hey everyone, 
 
-Hey everyone, Sharvin here! Today’s blog is about something exciting that kicked off with the start of our college — our foundation course.
+Sharvin here! Today’s blog is about something exciting that kicked off with the start of our college — our foundation course.
 
 This course is designed to help us build essential skills like communication, professional growth, creativity, problem-solving, and teamwork. Students were divided into 20 groups of 10 each. I was placed in Team 11 and was chosen as the team head. Our team had 10 members, with 3 girls and 7 boys.
 

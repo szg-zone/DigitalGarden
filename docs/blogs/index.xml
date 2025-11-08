@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on SZG Zone</title>
     <link>http://localhost:1313/DigitalGarden/blogs/</link>
     <description>Recent content in Blogs on SZG Zone</description>
-    <image>
-      <title>SZG Zone</title>
-      <url>http://localhost:1313/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 21:53:02 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 07:04:37 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/DigitalGarden/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🎯 My Digital Garden</title>
@@ -19,6 +14,34 @@
       <pubDate>Tue, 01 Jul 2025 21:53:02 +0530</pubDate>
       <guid>http://localhost:1313/DigitalGarden/blogs/001-my-digital-garden/</guid>
       <description>A bit about me and my garden</description>
+    </item>
+    <item>
+      <title>📘 Starting My Coding Journey</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/002-coding-journey/</link>
+      <pubDate>Sat, 12 Jul 2025 16:20:07 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/002-coding-journey/</guid>
+      <description>I’m diving into something exciting!.</description>
+    </item>
+    <item>
+      <title>🎭 My Panache Journey</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/004-fashionevent/</link>
+      <pubDate>Sat, 08 Nov 2025 07:04:37 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/004-fashionevent/</guid>
+      <description>&lt;p&gt;Hey everyone, Sharvin here again!&#xA;This time, I want to share something that’s been one of the coolest experiences I’ve had in college so far — my journey with Panache, our university’s fashion and cultural club.&lt;/p&gt;&#xA;&lt;p&gt;🌟 Joining Panache&lt;/p&gt;&#xA;&lt;p&gt;When the club opened its Junior Core forms, I was beyond excited to apply. There were so many teams to choose from — choreography, makeup, logistics, and more — but I went straight for the Costume &amp;amp; Design Team.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🌟 Foundation Course Journey</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/003-foundationcourse/</link>
+      <pubDate>Thu, 28 Aug 2025 11:21:18 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/003-foundationcourse/</guid>
+      <description>&lt;h2 id=&#34;hey-everyone&#34;&gt;Hey everyone,&lt;/h2&gt;&#xA;&lt;p&gt;Sharvin here! Today’s blog is about something exciting that kicked off with the start of our college — our foundation course.&lt;/p&gt;&#xA;&lt;p&gt;This course is designed to help us build essential skills like communication, professional growth, creativity, problem-solving, and teamwork. Students were divided into 20 groups of 10 each. I was placed in Team 11 and was chosen as the team head. Our team had 10 members, with 3 girls and 7 boys.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Draft Post</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/000-draft/</link>
+      <pubDate>Wed, 22 May 2024 01:14:18 +0800</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/000-draft/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello world!&lt;/p&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

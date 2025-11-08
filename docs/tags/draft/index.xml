@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Draft on SZG Zone</title>
-    <link>http://localhost:1313/tags/draft/</link>
+    <link>http://localhost:1313/DigitalGarden/tags/draft/</link>
     <description>Recent content in Draft on SZG Zone</description>
-    <image>
-      <title>SZG Zone</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 May 2024 01:14:18 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Nov 2025 07:04:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/DigitalGarden/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion Event</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/004-fashionevent/</link>
+      <pubDate>Sat, 08 Nov 2025 07:04:37 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/004-fashionevent/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Draft Post</title>
-      <link>http://localhost:1313/projects/000-draft-projects/</link>
+      <link>http://localhost:1313/DigitalGarden/blogs/000-draft/</link>
       <pubDate>Wed, 22 May 2024 01:14:18 +0800</pubDate>
-      <guid>http://localhost:1313/projects/000-draft-projects/</guid>
-      <description>A lil Draft Post</description>
+      <guid>http://localhost:1313/DigitalGarden/blogs/000-draft/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello world!&lt;/p&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

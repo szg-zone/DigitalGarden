@@ -1,23 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SZG Zone</title>
     <link>http://localhost:1313/DigitalGarden/tags/</link>
     <description>Recent content in Tags on SZG Zone</description>
-    <image>
-      <title>SZG Zone</title>
-      <url>http://localhost:1313/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 21:53:02 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 07:04:37 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/DigitalGarden/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draft</title>
+      <link>http://localhost:1313/DigitalGarden/tags/draft/</link>
+      <pubDate>Sat, 08 Nov 2025 07:04:37 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/tags/draft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BennettUniversity</title>
+      <link>http://localhost:1313/DigitalGarden/tags/bennettuniversity/</link>
+      <pubDate>Thu, 28 Aug 2025 11:21:18 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/tags/bennettuniversity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foundation Course</title>
+      <link>http://localhost:1313/DigitalGarden/tags/foundation-course/</link>
+      <pubDate>Thu, 28 Aug 2025 11:21:18 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/tags/foundation-course/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/DigitalGarden/tags/projects/</link>
+      <pubDate>Thu, 28 Aug 2025 11:21:18 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/tags/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding-Journey</title>
+      <link>http://localhost:1313/DigitalGarden/tags/coding-journey/</link>
+      <pubDate>Sat, 12 Jul 2025 16:20:07 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/tags/coding-journey/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>http://localhost:1313/DigitalGarden/tags/introduction/</link>
-      <pubDate>Tue, 01 Jul 2025 21:53:02 +0530</pubDate>
+      <pubDate>Sat, 12 Jul 2025 16:20:07 +0000</pubDate>
       <guid>http://localhost:1313/DigitalGarden/tags/introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning-to-Code</title>
+      <link>http://localhost:1313/DigitalGarden/tags/learning-to-code/</link>
+      <pubDate>Sat, 12 Jul 2025 16:20:07 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/tags/learning-to-code/</guid>
       <description></description>
     </item>
     <item>

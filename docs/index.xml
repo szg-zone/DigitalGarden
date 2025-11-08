@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SZG Zone</title>
     <link>http://localhost:1313/DigitalGarden/</link>
     <description>Recent content on SZG Zone</description>
-    <image>
-      <title>SZG Zone</title>
-      <url>http://localhost:1313/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/DigitalGarden/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 21:53:02 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 07:04:37 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/DigitalGarden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🎯 My Digital Garden</title>
@@ -21,29 +16,60 @@
       <description>A bit about me and my garden</description>
     </item>
     <item>
+      <title>📘 Starting My Coding Journey</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/002-coding-journey/</link>
+      <pubDate>Sat, 12 Jul 2025 16:20:07 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/002-coding-journey/</guid>
+      <description>I’m diving into something exciting!.</description>
+    </item>
+    <item>
+      <title>🎭 My Panache Journey</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/004-fashionevent/</link>
+      <pubDate>Sat, 08 Nov 2025 07:04:37 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/004-fashionevent/</guid>
+      <description>&lt;p&gt;Hey everyone, Sharvin here again!&#xA;This time, I want to share something that’s been one of the coolest experiences I’ve had in college so far — my journey with Panache, our university’s fashion and cultural club.&lt;/p&gt;&#xA;&lt;p&gt;🌟 Joining Panache&lt;/p&gt;&#xA;&lt;p&gt;When the club opened its Junior Core forms, I was beyond excited to apply. There were so many teams to choose from — choreography, makeup, logistics, and more — but I went straight for the Costume &amp;amp; Design Team.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🌟 Foundation Course Journey</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/003-foundationcourse/</link>
+      <pubDate>Thu, 28 Aug 2025 11:21:18 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/003-foundationcourse/</guid>
+      <description>&lt;h2 id=&#34;hey-everyone&#34;&gt;Hey everyone,&lt;/h2&gt;&#xA;&lt;p&gt;Sharvin here! Today’s blog is about something exciting that kicked off with the start of our college — our foundation course.&lt;/p&gt;&#xA;&lt;p&gt;This course is designed to help us build essential skills like communication, professional growth, creativity, problem-solving, and teamwork. Students were divided into 20 groups of 10 each. I was placed in Team 11 and was chosen as the team head. Our team had 10 members, with 3 girls and 7 boys.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Changelog</title>
       <link>http://localhost:1313/DigitalGarden/changelog/</link>
-      <pubDate>Mon, 27 Jun 2022 13:00:42 +1200</pubDate>
+      <pubDate>Sun, 01 Jun 2025 13:00:42 +1200</pubDate>
       <guid>http://localhost:1313/DigitalGarden/changelog/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s about the journey, not the destination 🚗&lt;/p&gt;
-&lt;h2 id=&#34;done&#34;&gt;Done&lt;/h2&gt;
-&lt;p&gt;✅ Create site (done 27/6/22)&lt;br&gt;
-✅ Write and publish &lt;a href=&#34;https://magdelinehuang.com/posts/001-my-digital-garden/&#34;&gt;my first post&lt;/a&gt; (done 27/6/22)&lt;br&gt;
-✅ Publish to GitHub and deploy to GitHub pages (done 27/6/22)&lt;br&gt;
-✅ Buy a domain and link it to my site (done 12/7/22)&lt;br&gt;
-✅ Add favicon (done 21/7/22)&lt;br&gt;
-✅ Write and publish &lt;a href=&#34;https://magdelinehuang.com/posts/002-js-variables-and-value-types/&#34;&gt;my first content post&lt;/a&gt; (done 21/7/22)&lt;br&gt;
-✅ Integrate Disqus comments (done 23/8/22)&lt;/p&gt;
-&lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
-&lt;p&gt;⚪️ Add RSS feed&lt;br&gt;
-⚪️ Add Google Analytics&lt;br&gt;
-⚪️ Customise the header and footer (remove the background colour for share buttons)&lt;br&gt;
-⚪️ Fix responsive layout (increase margins)&lt;br&gt;
-⚪️ Create an About page&lt;br&gt;
-⚪️ Create a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;Now page&lt;/a&gt;&lt;br&gt;
-⚪️ Create a 404 page&lt;br&gt;
-⚪️ Add &amp;ldquo;Last edited on&amp;rdquo;&lt;br&gt;
-⚪️ Customise colour of code blocks&lt;/p&gt;</description>
+      <description>&lt;p&gt;It&amp;rsquo;s about the journey, not the destination 🚗&lt;/p&gt;&#xA;&lt;h2 id=&#34;done&#34;&gt;Done&lt;/h2&gt;&#xA;&lt;p&gt;✅ Create site (done 01/6/25)&lt;br&gt;&#xA;✅ Write and publish &lt;a href=&#34;https://szg-zone.github.io/DigitalGarden/blogs/001-my-digital-garden/&#34;&gt;my first post&lt;/a&gt; (done 01/6/25)&lt;br&gt;&#xA;✅ Publish to GitHub and deploy to GitHub pages (done 01/6/25)&lt;br&gt;&#xA;✅ Add favicon (done 01/7/25)&lt;br&gt;&#xA;✅ Write and publish (done 04/7/25)&lt;/p&gt;&#xA;&lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;&#xA;&lt;p&gt;⚪ Buy a domain and link it to my site&lt;br&gt;&#xA;⚪ Integrate Disqus comments&lt;br&gt;&#xA;⚪️ Add RSS feed&lt;br&gt;&#xA;⚪️ Add Google Analytics&lt;br&gt;&#xA;⚪️ Customise the header and footer (remove the background colour for share buttons)&lt;br&gt;&#xA;⚪️ Fix responsive layout (increase margins)&lt;br&gt;&#xA;⚪️ Create an About page&lt;br&gt;&#xA;⚪️ Create a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;Now page&lt;/a&gt;&lt;br&gt;&#xA;⚪️ Create a 404 page&lt;br&gt;&#xA;⚪️ Add &amp;ldquo;Last edited on&amp;rdquo;&lt;br&gt;&#xA;⚪️ Customise colour of code blocks&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Draft Post</title>
+      <link>http://localhost:1313/DigitalGarden/blogs/000-draft/</link>
+      <pubDate>Wed, 22 May 2024 01:14:18 +0800</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/blogs/000-draft/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello world!&lt;/p&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/DigitalGarden/about/</link>
+      <pubDate>Mon, 27 Jun 2022 17:36:07 +1200</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/DigitalGarden/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/archive/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/DigitalGarden/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/DigitalGarden/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>
