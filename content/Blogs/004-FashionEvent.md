@@ -85,7 +85,7 @@ Then came the real action — the events!
 
 30th October – NIT Show: Our first big stage. It didn’t go as fire as we hoped, but it gave us experience and direction.
 
-31st October – Halloween Night: This one was lit! I designed multiple costumes, made the accessories myself, and our team absolutely rocked the ramp walk.
+31st October – Halloween Night: This one was lit! I designed 15 costumes with budget of 1000 Rs and I know myself how i pulled that of, made the accessories myself, and our team absolutely rocked the ramp walk.
 The best part? Our designs were featured in TimesNow Education’s blog! Seeing that was one of the proudest moments ever.
 
 6th November – WUD, Delhi: For this show, we refined our NIT designs, polished every detail, and made it shine — and it worked beautifully.
