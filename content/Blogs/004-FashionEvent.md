@@ -88,11 +88,11 @@ Then came the real action — the events!
 31st October – Halloween Night: This one was lit! I designed 15 costumes with budget of 1000 Rs and I know myself how i pulled that of, made the accessories myself, and our team absolutely rocked the ramp walk.
 The best part? Our designs were featured in TimesNow Education’s blog! Seeing that was one of the proudest moments ever.
 
-![Halloween Night costumes](DigitalGarden/images/004-FashionEvent/Halloween.webp)
+![Halloween Night costumes](images/004-FashionEvent/Halloween.webp)
 
 6th November – WUD, Delhi: For this show, we refined our NIT designs, polished every detail, and made it shine — and it worked beautifully.
 
-![Panache Show at WUD Delhi](DigitalGarden/images/004-FashionEvent/WUD.png)
+![Panache Show at WUD Delhi](images/004-FashionEvent/WUD.png)
 
 Each show taught me something new — about teamwork, leadership, and how much effort goes into creating even a single outfit.
 
