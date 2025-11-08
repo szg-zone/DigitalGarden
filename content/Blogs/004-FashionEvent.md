@@ -88,7 +88,8 @@ Then came the real action — the events!
 31st October – Halloween Night: This one was lit! I designed 15 costumes with budget of 1000 Rs and I know myself how i pulled that of, made the accessories myself, and our team absolutely rocked the ramp walk.
 The best part? Our designs were featured in TimesNow Education’s blog! Seeing that was one of the proudest moments ever.
 
-![Halloween Night costumes](images/004-FashionEvent/Halloween.webp)
+<p align="center">
+  <img src="https://github.com/szg-zone/DigitalGarden/blob/main/images/004-FashionEvent/Halloween.webp?raw=true" alt="Halloween Night Costume" width="45%" />
 
 6th November – WUD, Delhi: For this show, we refined our NIT designs, polished every detail, and made it shine — and it worked beautifully.
 
